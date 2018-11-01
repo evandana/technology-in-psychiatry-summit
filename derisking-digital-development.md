@@ -97,9 +97,32 @@ The tendency for people to believe that a fortune cookie was really tailored to 
 
 Lisa Marsch, PhD, Dartmouth University
 
-### 
+- [Pear Therapeutics](https://peartherapeutics.com/products/pearconnect/) – "Clinician in your pocket"
+- > Digital therapeutic is as effective as "Gold Standard" clinician-delivered treatment in medication-assisted treatment for OUD (Bickel, Marsch et al., 2008)
+    - Per cycle: 5 sessions with digital, 1 with clinician was equivalent to 6 sessions from clinician
+- Opioid Abstinent (Marsch et al., 2014)
+    - "Web with reduced treatment as usual" outperformed treatment as usual
+- Treatment retention
+- FDA authorized first "Digital Therapeutic" (reSET)tm Based on Data from CTN Trial with TEST – 09/2017
 
 
-<!--
-- Erin Josephenssen, 
-- Moderator: David Barash, MD, GE Foundation -->
+## FDA Lawyer
+
+Aaron Josephson
+
+### Medical Device
+
+> - "an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including a component part, or accessory which is:
+>   - recognized in the official National Formulary, or the United States Pharmacopoeia, or any supplement to them,
+>   - intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or
+>   - intended to affect the structure or any function of the body of man or other animals, and which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and
+> 
+> [source](https://www.fda.gov/medicaldevices/deviceregulationandguidance/overview/classifyyourdevice/ucm051512.htm)
+
+### Protect, Advance, Access
+
+- FDA is working on "Digital Health Pre-Certification" to meet the speed of product updates (specifically for software medical devices)
+- FDA Regulating a *product developer*, not just a product
+
+
+## Moderator: David Barash, MD, GE Foundation

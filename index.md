@@ -17,11 +17,12 @@
 - Facilitate person (or AI) to talk to *regularly* and *about problems* ([ref](./mood-dynamics.md#take-aways))
     - "Hypothesis: maintaining mental health depends on reciprocal interactions with other people" ([ref](./mood-dynamics.md#take-aways))
 - Build *reciprocal* interactions ([ref](./mood-dynamics.md#take-aways))
+- Software can treat disorders: Apps can have a huge impact on drug abistenence ([ref](./derisking-digital-development.md#development-and-evaluation-of-a-novel-digital-therapeutic))
 
 ### How *has* technology helped?
 
 - [SPIRE & Muse](./open-access.md#apps)
-    - Biometric tracking (breathing and ECG)
+    - Biometric tracking (breathing and EKG (ECG?)
 - [DEEP & START](./open-access.md#sangath-digital-mental-health-projects)
     - DEvelopmental Assessment on an E-Platform
     - Screening Tools for Autism Risk using Technology
