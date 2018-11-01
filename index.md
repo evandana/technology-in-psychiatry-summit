@@ -21,7 +21,7 @@
 ### How *has* technology helped?
 
 - [SPIRE & Muse](./open-access.md#apps)
-    - Biometric tracking (breathing and EKG)
+    - Biometric tracking (breathing and ECG)
 - [DEEP & START](./open-access.md#sangath-digital-mental-health-projects)
     - DEvelopmental Assessment on an E-Platform
     - Screening Tools for Autism Risk using Technology
