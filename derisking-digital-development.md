@@ -124,5 +124,20 @@ Aaron Josephson
 - FDA is working on "Digital Health Pre-Certification" to meet the speed of product updates (specifically for software medical devices)
 - FDA Regulating a *product developer*, not just a product
 
+### What if the app does the wrong thing?
+
+- Who's the blame with AI?
+
 
 ## Moderator: David Barash, MD, GE Foundation
+
+- How well do you, and how do you translate face-to-face interactions to mobile apps?
+    - Don't aim to mimic perfectly, aim to leverage technology's scale and benefits which can exceed face-to-face interactions – Lisa Marsch
+- How much consideration should be made for privacy in mobile apps?
+    - FDA's pilot for pre-certification has only 9 companies – Aaron Josephson
+    - Privacy is not only about protection, but also about enabling the flow of data – Lisa Marsch
+    - Digital phenotyping complaince is not 100% because of nuances, like not wanting GPS when at a friend's house because of respecting his/her privacy – David Epstein 
+- Biggest risk
+    - When AI makes the wrong suggestion and no one is around to balance – David Epstein 
+    - When projects/products/funding ends and benefits have not been fully realized – Lisa Marsch
+    
