@@ -7,15 +7,18 @@
 
 ## Main Questions
 
-- How *can* technology help?
-    - Solutions at **low barrier to entry**
-        - Accessible (physical travel)
-        - Cost (cheaper than traveling)
-    - Machine Learning: making connections beyond what humans can do (with different set of biases)
-    - Facial recognition for affect/emotion
-- How *has* technology helped?
-    - [SPIRE & Muse](./open-access.md#apps)
-    - [DEEP & START](./open-access.md#sangath-digital-mental-health-projects)
+### How *can* technology help?
+
+- Solutions at **low barrier to entry**
+    - Accessible (physical travel)
+    - Cost (cheaper than traveling)
+- Machine Learning: making connections beyond what humans can do (with different set of biases)
+- Facial recognition for affect/emotion
+
+### How *has* technology helped?
+
+- [SPIRE & Muse](./open-access.md#apps)
+- [DEEP & START](./open-access.md#sangath-digital-mental-health-projects)
 
 
 ## Take Aways

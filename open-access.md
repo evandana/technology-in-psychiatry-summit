@@ -117,3 +117,7 @@
 
 - "Digital coaches work as well as face-to-face, even if async" – Vikram Patel
 - Avatars with faces that replicate empathy (facial recognition) are more engaging than not – Kamal Jethwani
+- Screen time during adolescence has detrimal impact on attention (different if 35)– Vikram Patel
+- We don't have enough information on long term effects of technology (screen use) – Kimberlyn Leary
+- Global Digital Divide: women who access digital information through husband's phone, resource dearth areas without access to technology or digital information – Vikram Patel
+- Technology increases access to services – Kamal Jethwani (in contrast to digital divide from above comment)
