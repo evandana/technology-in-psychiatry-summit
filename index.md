@@ -21,6 +21,12 @@
 - [DEEP & START](./open-access.md#sangath-digital-mental-health-projects)
 
 
+### How can technology be *harmful*?
+
+- "Anything at a dose can be a poison" applies to technology – ([ref](./from-promise-to-reality.md))
+
+
+
 ## Take Aways
 
 - Consider app-use principles
@@ -35,4 +41,23 @@
 
 ## Presentation Notes
 
-- [Open Access: Expanding Mental Health Care in Diverse Communities Globally and in the US](open-access.md)
+- [Open Access: Expanding Mental Health Care in Diverse Communities Globally and in the US](./open-access.md)
+- [Keynote: From Promise to Reality: Harnessing Technology to Address the Global Mental Health Crisis](./from-promise-to-reality.md)
+
+
+## Technology X Psychiatry
+
+- [Technology and Psychiatry information](https://www.mcleanhospital.org/technology-psychiatry-summit#technology-psychiatry) on summit website
+- Telepsychiatry and the Opportunity for Digital
+    > 
+    > “The average 18-25 year-old checks their phone 56 times/day.” (Bridianne O’Dea, TEDxYouth@Sydney) The phone is a direct portal.
+    > 
+    > “The global telehealth market is expected to be worth US$ 34.27 billion by the end of 2020, with North America being the largest market globally accounting for more than 40% of the global market size.” (HITconsultant)
+    > 
+    > “Three in five Americans are open to virtual support service options (e.g., video conference calls) with pharmaceutical companies to help them understand medications. This is especially true with millennials, as 70% want to leverage these modern technologies to communicate with their drug providers.” (Salesforce 2017 Connected Patient Report)
+    > 
+    > “Nearly three in four Americans (72%) say it’s important that their health insurance providers use modern tools—such as live chat/instant message and two-way video—when communicating with them.” (Salesforce 2017 Connected Patient Report)
+    > 
+    > “A majority of Americans currently communicate with their doctors via traditional channels to schedule appointments, with 80% using the phone.” (Salesforce 2017 Connected Patient Report)
+    > 
+    > [source](https://www.mcleanhospital.org/technology-psychiatry-summit#technology-psychiatry)
