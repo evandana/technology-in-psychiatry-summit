@@ -46,9 +46,6 @@
 - "Digital coaches work as well as face-to-face, even if async" ([ref](./open-access.md#panel-discussion))
 
 
-## ToDo
-
-
 
 ## Presentation Notes
 
